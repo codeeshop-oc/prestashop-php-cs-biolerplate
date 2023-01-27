@@ -1,7 +1,6 @@
 <?php
 
-// https://github.com/PrestaShop/PrestaShop/blob/develop/.php-cs-fixer.dist.php
-// ../tools/php-cs-fixer/vendor/bin/php-cs-fixer fix getcwd() --config getcwd() . /.php-cs-fixer.dist.php
+/* https://github.com/PrestaShop/PrestaShop/blob/develop/.php-cs-fixer.dist.php */
 ini_set('memory_limit','256M');
 
 function isAllowedDir($path) {
