@@ -32,3 +32,13 @@ admin-dev/import/
 download/
 /img/*
 upload/
+images/
+
+.php-cs-fixer.dist.php
+
+# Bundle Tool PHP CS Local files
+tools/
+vendor/
+composer.json
+composer.lock
+.php_cs.cache
