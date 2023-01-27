@@ -34,7 +34,7 @@ download/
 upload/
 images/
 
-// .php-cs-fixer.dist.php
+# .php-cs-fixer.dist.php
 .php-cs-fixer.cache
 
 # Bundle Tool PHP CS Local files
